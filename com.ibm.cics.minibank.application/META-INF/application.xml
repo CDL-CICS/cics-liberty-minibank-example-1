@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application:application xmlns:application="http://www.ibm.com/xmlns/prod/cics/management/APPLICATION" bundleListPath="META-INF/bundles.xml" bundleRelease="0" bundleVersion="1" description="minibank Application" majorVersion="1" microVersion="0" minorVersion="0" name="com.ibm.cics.minibank.application"/>

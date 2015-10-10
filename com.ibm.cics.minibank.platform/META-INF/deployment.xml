@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deployment:deployment xmlns:deployment="http://www.ibm.com/xmlns/prod/cics/management/DEPLOYMENT" deploymentRelease="0" deploymentVersion="1">
+  <deployment:deployBundle id="com.ibm.cics.minibank.AOR.system.bundle" majorVersion="1" minorVersion="0" microVersion="0" regionTypeName="AOR"/>
+  <deployment:deployBundle id="com.ibm.cics.minibank.zosconnect" majorVersion="1" minorVersion="0" microVersion="0" regionTypeName="ROR"/>
+  <deployment:deployBundle id="com.ibm.cics.minibank.WOR.system.bundle" majorVersion="1" minorVersion="0" microVersion="0" regionTypeName="WOR"/>
+</deployment:deployment>

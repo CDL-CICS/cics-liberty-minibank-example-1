@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platform:platform xmlns:platform="http://www.ibm.com/xmlns/prod/cics/management/PLATFORM" bundleListPath="META-INF/bundles.xml" bundleRelease="0" bundleVersion="2" deploymentPath="META-INF/deployment.xml" description="Platform" name="com.ibm.cics.minibank.platform" regionsPath="META-INF/regions.xml" regionTypeLinksPath="META-INF/regionTypeLinks.xml" regionTypesPath="META-INF/regionTypes.xml">
+  <regionType name="AOR"/>
+  <regionType name="ROR"/>
+  <regionType name="WOR"/>
+</platform:platform>

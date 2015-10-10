@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regiontypes:regionTypes xmlns:regiontypes="http://www.ibm.com/xmlns/prod/cics/management/REGIONTYPES" xmlns:smw2int="http://www.ibm.com/xmlns/prod/cics/smw2int" regionTypesRelease="0" regionTypesVersion="2">
+  <regiontypes:regionType create="false" id="AOR" name="AOR"/>
+  <regiontypes:regionType create="false" id="ROR" name="ROR"/>
+  <regiontypes:regionType create="false" id="WOR" name="WOR"/>
+</regiontypes:regionTypes>

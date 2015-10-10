@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bundlelist:bundleList xmlns:bundlelist="http://www.ibm.com/xmlns/prod/cics/management/BUNDLELIST" bundleVersion="1" bundleRelease="0">
+  <bundle id="com.ibm.cics.minibank.AOR.system.bundle" majorVersion="1" minorVersion="0" microVersion="0"/>
+  <bundle id="com.ibm.cics.minibank.zosconnect" majorVersion="1" minorVersion="0" microVersion="0"/>
+  <bundle id="com.ibm.cics.minibank.WOR.system.bundle" majorVersion="1" minorVersion="0" microVersion="0"/>
+</bundlelist:bundleList>
