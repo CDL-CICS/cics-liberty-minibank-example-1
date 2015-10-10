@@ -4,14 +4,6 @@
         <timestamp>2014-09-05T15:08:50.742+08:00</timestamp>
     </meta_directives>
     <define name="LIBMINI" type="http://www.ibm.com/xmlns/prod/cics/bundle/JVMSERVER" path="LIBMINI.jvmserver"/>
-    <define name="DACW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="DACW.transaction"/>
-    <define name="DPTW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="DPTW.transaction"/>
-    <define name="DUSW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="DUSW.transaction"/>
-    <define name="MENU" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="MENU.transaction"/>
-    <define name="QACW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="QACW.transaction"/>
-    <define name="QUSW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="QUSW.transaction"/>
-    <define name="TSFW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="TSFW.transaction"/>
-    <define name="WDRW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="WDRW.transaction"/>
     <define name="MCRACT" type="http://www.ibm.com/xmlns/prod/cics/bundle/URIMAP" path="MCRACT.urimap"/>
     <define name="MCRUSR" type="http://www.ibm.com/xmlns/prod/cics/bundle/URIMAP" path="MCRUSR.urimap"/>
     <define name="MDEPOSIT" type="http://www.ibm.com/xmlns/prod/cics/bundle/URIMAP" path="MDEPOSIT.urimap"/>

@@ -11,4 +11,12 @@
     <define name="QURYUSER" type="http://www.ibm.com/xmlns/prod/cics/bundle/PROGRAM" path="QURYUSER.program"/>
     <define name="TRANSFER" type="http://www.ibm.com/xmlns/prod/cics/bundle/PROGRAM" path="TRANSFER.program"/>
     <define name="WITHDRAW" type="http://www.ibm.com/xmlns/prod/cics/bundle/PROGRAM" path="WITHDRAW.program"/>
+    <define name="DACW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="DACW.transaction"/>
+    <define name="DPTW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="DPTW.transaction"/>
+    <define name="DUSW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="DUSW.transaction"/>
+    <define name="MENU" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="MENU.transaction"/>
+    <define name="QACW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="QACW.transaction"/>
+    <define name="QUSW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="QUSW.transaction"/>
+    <define name="TSFW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="TSFW.transaction"/>
+    <define name="WDRW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="WDRW.transaction"/>
 </manifest>
