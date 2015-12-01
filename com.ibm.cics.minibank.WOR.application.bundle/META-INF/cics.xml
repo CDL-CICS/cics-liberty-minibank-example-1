@@ -19,4 +19,28 @@
     <define name="QUSW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="QUSW.transaction"/>
     <define name="TSFW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="TSFW.transaction"/>
     <define name="WDRW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="WDRW.transaction"/>
+    <modify>
+        <entrypoint name="DACW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="DACW"/>
+    </modify>
+    <modify>
+        <entrypoint name="DPTW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="DPTW"/>
+    </modify>
+    <modify>
+        <entrypoint name="DUSW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="DUSW"/>
+    </modify>
+    <modify>
+        <entrypoint name="MENU" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="MENU"/>
+    </modify>
+    <modify>
+        <entrypoint name="QACW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="QACW"/>
+    </modify>
+    <modify>
+        <entrypoint name="QUSW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="QUSW"/>
+    </modify>
+    <modify>
+        <entrypoint name="TSFW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="TSFW"/>
+    </modify>
+    <modify>
+        <entrypoint name="WDRW" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="WDRW"/>
+    </modify>
 </manifest>

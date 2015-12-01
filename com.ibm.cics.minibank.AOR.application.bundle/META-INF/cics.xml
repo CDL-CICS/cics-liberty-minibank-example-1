@@ -20,4 +20,22 @@
     <define name="QUSJ" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="QUSJ.transaction"/>
     <define name="TSFJ" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="TSFJ.transaction"/>
     <define name="WDRJ" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" path="WDRJ.transaction"/>
+    <modify>
+        <entrypoint name="CUSJ" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="CUSJ"/>
+    </modify>
+    <modify>
+        <entrypoint name="DPTJ" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="DPTJ"/>
+    </modify>
+    <modify>
+        <entrypoint name="QACJ" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="QACJ"/>
+    </modify>
+    <modify>
+        <entrypoint name="QUSJ" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="QUSJ"/>
+    </modify>
+    <modify>
+        <entrypoint name="TSFJ" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="TSFJ"/>
+    </modify>
+    <modify>
+        <entrypoint name="WDRJ" type="http://www.ibm.com/xmlns/prod/cics/bundle/TRANSACTION" operation="WDRJ"/>
+    </modify>
 </manifest>
